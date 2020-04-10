@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Exercise8.5</title>
+    </head>
+    <body>
+    <h1 style="font-size: 3em">Övning 4</h1>
+        <div style="width: 4em ;height: 4.5em;border: 2.2px solid gray;background-color: fuchsia;text-align: center;font-size: 2em;position: relative ;left: 4em;top: 2em">1</div>
+         <div style="width: 2.7em ;height: 10em;border: 2.2px solid gray;background-color: greenyellow;text-align: center;font-size: 2em; position: absolute;top: 6.5em;left: 12.3em">5</div>
+        <div style="width: 5.5em ;height: 5.5em;border: 2.2px solid gray;background-color: blue;text-align: center;font-size: 2em; position: absolute;top: 5.6em;left: 14em">2</div>
+        <div style="width: 10em ;height: 5.5em;border: 2.2px solid gray;background-color: gray;text-align: center;font-size: 2em; position: absolute;top: 8em;left: 7em">3</div>
+        <div style="width: 5.2em ;height: 6em;border: 2.2px solid gray;background-color: beige;text-align: center;font-size: 2em; position: absolute;top: 12em;left: 4em">4</div>
+       
+    
+    </body>
+</html>
